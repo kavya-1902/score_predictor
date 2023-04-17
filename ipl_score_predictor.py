@@ -131,3 +131,11 @@ if st.button('Predict Score'):
     x=f'PREDICTED MATCH SCORE : {my_prediction-5} to {my_prediction+5}' 
     st.success(x)
    
+
+st.markdown(
+    """
+    THIS APP IS CREATED BY K.KAVYA SREE
+    COMPUTER SCIENCE (DATA SCIENCE)
+    INSTITUTE OF AERONAUTICAL ENGINEERING
+    """
+)
